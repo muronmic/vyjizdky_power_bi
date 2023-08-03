@@ -1,5 +1,5 @@
 # Vyjížďky do zaměstnání podle hlavního dopravního prostředku a zaměstnanci podle místa pracoviště a pohlaví
-V tomto repozitáři naleznete Power BI projekt, jehož cílem bylo vytvořit dashboard pro laickou veřejnost. Svůj dashboard jsem věnovala vyjížďkám do zaměstnání podle hlavního dopravního prostředku a zaměstnaným podle místa pracoviště a pohlaví.
+V tomto repozitáři naleznete Power BI projekt (soubor projekt_vyjizdky_zamestnani.pbix), jehož cílem bylo vytvořit dashboard pro laickou veřejnost. Svůj dashboard jsem věnovala vyjížďkám do zaměstnání podle hlavního dopravního prostředku a zaměstnaným podle místa pracoviště a pohlaví.
 
 Datové soubory k dashboardu naleznete ve složce [data_files](data_files/).
 
